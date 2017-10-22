@@ -1,0 +1,55 @@
+Status Progression From ToActions
+Quote Requested > Available On Create
+New Job Order Intake1 > Job Order Intake
+New Job Order Intake Candidates Submitted1 > Client Agreement
+New Job Order Intake >Client Agreement
+Contracting/Vendor Setup > Client Agreement
+Contracting/Vendor Setup > New Job Order
+Contracting/Vendor Setup > New Job Order
+Identifying Candidates > New Job Order
+Identifying Candidates > Recruiting
+Identifying Candidates > Recruiting
+Submitting Candidates > Recruiting
+Submitting Candidates > Candidates Submitted
+Submitting Candidates > Candidates Submitted
+Continued Search (Interviews In Progress) > Candidates Submitted
+Continued Search (Interviews In Progress)
+Interviews In Progress (Halting Search > High ConfiCandidates Submitted
+Interviews In Progress (Halting Search, High Confi > Resume Search (Interviews In Progress)
+Interviews In Progress (Halting Search, High Confi > Continued Search (Interviews In Progress)
+Submitting Additional Candidates >Continued Search (Interviews In Progress)
+Submitting Candidates >Offer Made
+Interviews In Progress (Halting Search, High Confi > Offer Made
+Lost > Any
+Lost to Another Angency > Offer Accepted
+Offer Made > Offer Accepted
+Placement! > Offer Accepted
+Placement! > Waiting for Start Date
+Placement! > Waiting for Start Date
+Candidate Starts Today > Waiting for Start Date
+Candidate Starts Today > Failed to Start
+Waiting for Start Date > Failed to Start
+Guarantee > Candidate Starts Today
+Guarantee > Lost to Internal Hire
+Any > Lost to Internal Hire
+Lost to Another Angency > Any
+Lost to Another Angency > Lost to Internal Recruitment
+Any > Lost to Internal Recruitment
+Lost to Direct Applicant > Any
+Lost to Direct Applicant > Lost, Order Cancelled Late
+Any > Lost, Order Cancelled Late
+Abandoned (Client Unresponsive) > Any
+Abandoned (Client Unresponsive) > Abandoned (Too many client rejections)
+Any > Abandoned (Too many client rejections)
+Abandoned (Candidates Not Found) > Any
+Abandoned (Candidates Not Found) > Lost, Order Cancelled Early
+Any > Lost, Order Cancelled Early
+Abandoned (Not a Good Order) > Any
+Abandoned (Not a Good Order) > No Show Interview
+Interviews In Progress (Halting Search, High Confi > No Show Interview
+No Show Interview > Continued Search (Interviews In Progress)
+No Show Interview > Candidate Resigned
+Guarantee > Candidate Resigned
+Candidate Fired > Guarantee
+Candidate Fired > Guarantee Satisfied
+Guarantee > Guarantee Satisfied
